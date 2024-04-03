@@ -50,7 +50,6 @@ This repository contains code for a Face Emotion Recognition model built using M
              
                     ...
             test/
-                
                     ...
    ```
 **Note:** Rename the 'validation' folder to 'test' and delete any duplicate folders in the dataset. 
